@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
+}
+
+header{
+    width: 100%;
+    height: 400px;
+    display: block;
+    background-image: url("https://img.freepik.com/fotos-premium/pao-italiano-fresco_100488-1139.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+header h1{
+    font-size: 40px;
+    color: white;
+    display: block;
+    float: left;
+    width: 300px;
+    margin-left: 600px;
+    padding-top: 200px;
+}
