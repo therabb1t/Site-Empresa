@@ -65,3 +65,51 @@ main article img{
     width: 50%;
     padding-left: 25%; 
 }
+
+footer{
+    width: 100%;
+    display: block;
+    height: 509px;
+    float: left;
+    background-color:wheat;
+    margin: 5px;
+}
+
+footer div{
+    width: 33%;
+    display: block;
+    height: 400px;
+    float: left;
+}
+
+footer h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+
+footer div h1{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+footer div p{
+    font-size: 18px;
+    text-align: center;
+}
+
+footer div img{
+    width: 400px;
+    height: 255px;
+    width: 80%;
+    padding-left: 10%; 
+}
+
+footer h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color: orangered;
+}
